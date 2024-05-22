@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353732065824",
+    "project_id": "hmsbysumit",
+    "storage_bucket": "hmsbysumit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353732065824:android:0716f47b8b68d8b54e9a45",
+        "android_client_info": {
+          "package_name": "com.example.hmsbysumit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQY-ujdyjpYToIpez24iw0gMcSi0PnBAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
